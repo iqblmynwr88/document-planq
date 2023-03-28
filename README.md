@@ -142,3 +142,5 @@ rm -rf planq.sh && \
 rm -rf .planqd && \
 rm -rf $(which planqd)
 ```
+## Source
+https://github.com/Alfonova-Node/NODE_TESTNET/tree/main/PLANQ
